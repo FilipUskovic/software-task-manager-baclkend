@@ -1,0 +1,6 @@
+com/sam/services/TaskService.class
+com/sam/demo/TaskManagementApplication.class
+com/sam/controllers/TaskController.class
+com/sam/repositories/TaskRepository.class
+com/sam/dto/CountType.class
+com/sam/model/Task.class
